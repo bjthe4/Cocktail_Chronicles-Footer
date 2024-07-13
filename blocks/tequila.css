@@ -1,0 +1,25 @@
+.tequila {
+  padding: 100px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: #fff;
+
+  margin: 30px;
+  flex-wrap: wrap;
+  gap: 50px;
+  border-radius: 50px;
+  text-align: center;
+  /* align-items: flex-start; */
+  /* align-items: stretch; */
+  /* background-image: url(../images/gin_tonic.jpg);
+    background-repeat: no-repeat; */
+  /* background-position-x: center; */
+  background: linear-gradient(
+      0deg,
+      rgba(68, 121, 234, 0.3),
+      rgba(12, 5, 200, 0.3)
+    ),
+    url(../images/background_section.svg);
+  background-size: cover;
+}

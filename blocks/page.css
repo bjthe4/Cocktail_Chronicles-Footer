@@ -1,0 +1,16 @@
+.page {
+  background-color: #d9e5fd;
+  font-family: "Inter", Arial, sans-serif;
+  min-width: 1100px;
+
+  /* max-width: 1600px; */
+
+  max-width: 100%;
+
+  /* adjusted width to 100% to ensure content does no exceed viewport width*/
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
