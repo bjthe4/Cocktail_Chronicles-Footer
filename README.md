@@ -1,2 +1,3 @@
 # Main
-Footer foe Cocktail Chronicals
+Footer for
+Cocktail Chronicals
